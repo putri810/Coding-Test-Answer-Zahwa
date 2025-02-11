@@ -1,0 +1,14 @@
+D:\Coding-test-zahwa\bin\Debug\net8.0\Coding-test-zahwa.exe
+D:\Coding-test-zahwa\bin\Debug\net8.0\Coding-test-zahwa.deps.json
+D:\Coding-test-zahwa\bin\Debug\net8.0\Coding-test-zahwa.runtimeconfig.json
+D:\Coding-test-zahwa\bin\Debug\net8.0\Coding-test-zahwa.dll
+D:\Coding-test-zahwa\bin\Debug\net8.0\Coding-test-zahwa.pdb
+D:\Coding-test-zahwa\obj\Debug\net8.0\Coding-test-zahwa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding-test-zahwa\obj\Debug\net8.0\Coding-test-zahwa.AssemblyInfoInputs.cache
+D:\Coding-test-zahwa\obj\Debug\net8.0\Coding-test-zahwa.AssemblyInfo.cs
+D:\Coding-test-zahwa\obj\Debug\net8.0\Coding-test-zahwa.csproj.CoreCompileInputs.cache
+D:\Coding-test-zahwa\obj\Debug\net8.0\Coding-test-zahwa.dll
+D:\Coding-test-zahwa\obj\Debug\net8.0\refint\Coding-test-zahwa.dll
+D:\Coding-test-zahwa\obj\Debug\net8.0\Coding-test-zahwa.pdb
+D:\Coding-test-zahwa\obj\Debug\net8.0\Coding-test-zahwa.genruntimeconfig.cache
+D:\Coding-test-zahwa\obj\Debug\net8.0\ref\Coding-test-zahwa.dll
